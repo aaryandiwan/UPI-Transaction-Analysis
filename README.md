@@ -173,10 +173,5 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 ---
 
-## 📄 License
-
-MIT License — feel free to use, modify, and distribute.
-
----
 
 *Made with ❤️ using Python · Pandas · Matplotlib · Seaborn*
